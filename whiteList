@@ -1,0 +1,26 @@
+local allowedAccounts = {
+    ["BaldiIsGolden"] = true,
+    ["XDarkx_xx"] = true,
+    ["Magneticial"] = true,
+    ["Bacon_342345"] = true,
+    ["YourDudeUnknown"] = true,
+    ["SwagAltacc12"] = true,
+    ["EI_SIasher"] = true,
+    ["nommmmmg"] = true,
+    ["asdsgffyjhfthdtdfg"] = true,
+    ["16zvt"] = true,
+    ["PHINSCONFESSIONS"] = true,
+    ["Thas_Jayy"] = true,
+    ["Fxeal"] = true,
+    ["chazonxan"] = true,
+    ["1xAgentWandox1"] = true,
+    ["choo0cieman"] = true,
+    ["JaymemurFortniteBat1"] = true,
+    ["FERNANDOuzitapi9"] = true,
+    ["tuneralex7"] = true,
+    ["Sharkykones"] = true,
+    ["stepbroJxsh"] = true,
+    ["R9tps3"] = true
+    
+}
+return allowedAccounts
